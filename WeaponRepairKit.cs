@@ -12,7 +12,7 @@
     public class WeaponRepairKit : BaseUnityPlugin
     {
         public const string GUID = "com.ehaugw.weaponrepairkit";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
         public const string NAME = "Weapon Repair Kit";
         public static string ModFolderName = Directory.GetParent(typeof(WeaponRepairKit).Assembly.Location).Name.ToString();
 

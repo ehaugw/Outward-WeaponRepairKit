@@ -9,7 +9,7 @@ This mods was confirmed to work with the (at that time) current base game (Outwa
 
 What's the purpose of "Weapon Repair Kit"?
 
-* Enable manaless characters to gain **Runic Protection** through a limited consumable
+* Repair your weapons on the fly!
 
 
 
@@ -18,9 +18,9 @@ What's the purpose of "Weapon Repair Kit"?
 
 "Weapon Repair Kit" implements one new item:
 
-**Weapon Repair Kit** Recipe scroll can be bought from any alchemist
+**Weapon Repair Kit**
 
-* Use to apply **Runic Protection** to the user.
+* Restores about 50 durability to the equipped weapon
 
 
 
@@ -75,6 +75,9 @@ What's the purpose of "Weapon Repair Kit"?
 * [Vagabond](https://outward.thunderstore.io/package/ehaugw/Vagabond/ "Vagabond")
 
   * Provide positional mechanics, beast taming, dirty tricks and an enhanced survival experience.
+* [Weapon Repair Kit](https://thunderstore.io/c/outward/p/ehaugw/WeaponRepairKit "Weapon Repair Kit")
+
+  * Repair your weapons on the fly!
 
 
 
